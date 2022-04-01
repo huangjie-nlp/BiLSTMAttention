@@ -1,0 +1,36 @@
+[
+    {
+        "news_agriculture": 0,
+        "news_sports": 1,
+        "news_game": 2,
+        "news_car": 3,
+        "news_tech": 4,
+        "news_house": 5,
+        "news_finance": 6,
+        "news_culture": 7,
+        "news_travel": 8,
+        "news_military": 9,
+        "news_entertainment": 10,
+        "news_world": 11,
+        "news_edu": 12,
+        "news_story": 13,
+        "stock": 14
+    },
+    {
+        "0": "news_agriculture",
+        "1": "news_sports",
+        "2": "news_game",
+        "3": "news_car",
+        "4": "news_tech",
+        "5": "news_house",
+        "6": "news_finance",
+        "7": "news_culture",
+        "8": "news_travel",
+        "9": "news_military",
+        "10": "news_entertainment",
+        "11": "news_world",
+        "12": "news_edu",
+        "13": "news_story",
+        "14": "stock"
+    }
+]

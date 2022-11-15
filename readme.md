@@ -1,4 +1,4 @@
-# BiLSTM_Attention
+# BiLSTMAttention
 使用BiLSTM+Attention的方法 进行文本分类
 
 ## 说明
